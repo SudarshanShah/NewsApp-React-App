@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news-au",
+          "name": "Google News (Australia)"
+        },
+        "author": "James Hall",
+        "title": "‘Bad politics’: Mining boss warns ScoMo",
+        "description": "<p>Mining magnate Andrew Forrest has ridiculed politicians who refuse to adopt renewable energy policies as he urged Scott Morrison to attend the Glasgow Climate Council.</p>",
+        "url": "https://www.news.com.au/technology/environment/climate-change/mining-magnate-andrew-twiggy-forrest-ridicules-climate-deniers/news-story/2508cb3aeb5e252a19b9a2c073057f1b",
+        "urlToImage": "https://content.api.news/v3/images/bin/2da873049a96228cf2bbf7b210bad298",
+        "publishedAt": "2021-10-11T01:18:57+00:00",
+        "content": "Mining magnate Andrew Forrest delivered a warning to Scott Morrison as he shot down a common argument used by climate deniers.Mining magnate Andrew Forrest has ridiculed politicians who refuse to ado… [+3589 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Dan Balz",
+        "title": "Wisconsin: The incubator for America’s tribal politics",
+        "description": "From the election of Gov. Scott Walker in 2010 to Trump’s narrow loss there in 2020, Wisconsin has revealed marked divides and extremes now central to American politics. Democrats and Republicans in the state are gearing up for high-stakes campaigns for gover…",
+        "url": "https://www.washingtonpost.com/politics/2021/10/08/wisconsin-polarization-democrats-republicans/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UCNQUNMCHZBC3AIJIGBX2FVPPM.jpg&w=1440",
+        "publishedAt": "2021-10-08T09:00:22Z",
+        "content": "Bewley was eager to learn as quickly as she could about how to become an effective legislator. Instead, in the early weeks of 2011, she found herself caught up in the disorienting turbulence of mass … [+32450 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "author": "The Washington Times http://www.washingtontimes.com",
+        "title": "Latest Quizzes",
+        "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+        "url": "https://www.washingtontimes.com/quiz/",
+        "urlToImage": null,
+        "publishedAt": "2021-02-10T03:52:37.2719772Z",
+        "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+      },
+      {
+        "source": {
+          "id": "the-jerusalem-post",
+          "name": "The Jerusalem Post"
+        },
+        "author": null,
+        "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+        "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+        "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+        "publishedAt": "2019-11-13T04:41:00Z",
+        "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+      }
+    ]
+  }
